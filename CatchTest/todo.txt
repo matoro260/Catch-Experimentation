@@ -1,0 +1,3 @@
+-get Catch working with the factorial example
+-separate out the main
+-try running only a subset of the tests
