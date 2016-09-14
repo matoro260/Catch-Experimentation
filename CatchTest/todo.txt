@@ -1,3 +1,3 @@
 -get Catch working with the factorial example
--separate out the main
+	-try file includes in the way in which the Tanks app does them
 -try running only a subset of the tests
